@@ -1,0 +1,12 @@
+version: 2 
+sources:
+  - name: learning
+    schema: Leaning_bq
+    tables: 
+      - name: departments
+      - name: employees
+      # - name: sample_emp_table
+      # - name: us_emp_data
+      - name: customer
+      - name: customer1
+      
