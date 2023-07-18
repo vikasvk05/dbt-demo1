@@ -1,0 +1,1 @@
+SELECT * FROM `learning-gcp-self-test.Leaning_bq.employees`;
